@@ -1,0 +1,5 @@
+# #ARRAY PYTHON LIST              
+data = [10, 20, 30, 40]
+print(data[0]) #akses
+data.append(50) #tambah
+data.remove(20) #hapus
